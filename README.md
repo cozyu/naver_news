@@ -1,2 +1,2 @@
 # naver_news
-crawing naver news!
+crawing naver news
